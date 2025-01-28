@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1", "Day 1", "{74F34385-CCAB-4BD7-A0C3-5E3EC0FB1233}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{A90F92A2-848C-401B-9A4D-0D23978D755C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "Day 1\C#\HelloCSharp\HelloCSharp.csproj", "{41AF04C4-949C-427A-9C49-0C06370D4407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AF04C4-949C-427A-9C49-0C06370D4407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AF04C4-949C-427A-9C49-0C06370D4407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AF04C4-949C-427A-9C49-0C06370D4407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AF04C4-949C-427A-9C49-0C06370D4407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A90F92A2-848C-401B-9A4D-0D23978D755C} = {74F34385-CCAB-4BD7-A0C3-5E3EC0FB1233}
+		{41AF04C4-949C-427A-9C49-0C06370D4407} = {A90F92A2-848C-401B-9A4D-0D23978D755C}
+	EndGlobalSection
+EndGlobal
