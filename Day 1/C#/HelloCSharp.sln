@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{A90F92A2-848C-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "Day 1\C#\HelloCSharp\HelloCSharp.csproj", "{41AF04C4-949C-427A-9C49-0C06370D4407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterTutorials", "..\..\Day 3\C#\BetterTutorials\BetterTutorials.csproj", "{BBC3BC64-06AE-4CAA-932E-5DB1604385E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterTutotials", "..\..\Day 3\C#\BetterTutotials\BetterTutotials.csproj", "{8BBBDDAD-861E-451A-816D-DE67A0A887C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +26,14 @@ Global
 		{41AF04C4-949C-427A-9C49-0C06370D4407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41AF04C4-949C-427A-9C49-0C06370D4407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41AF04C4-949C-427A-9C49-0C06370D4407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC3BC64-06AE-4CAA-932E-5DB1604385E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3BC64-06AE-4CAA-932E-5DB1604385E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3BC64-06AE-4CAA-932E-5DB1604385E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3BC64-06AE-4CAA-932E-5DB1604385E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBBDDAD-861E-451A-816D-DE67A0A887C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBBDDAD-861E-451A-816D-DE67A0A887C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBBDDAD-861E-451A-816D-DE67A0A887C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBBDDAD-861E-451A-816D-DE67A0A887C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A90F92A2-848C-401B-9A4D-0D23978D755C} = {74F34385-CCAB-4BD7-A0C3-5E3EC0FB1233}
