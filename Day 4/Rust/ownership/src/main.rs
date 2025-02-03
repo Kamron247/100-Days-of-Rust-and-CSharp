@@ -41,10 +41,10 @@ fn main() {
     println!("proof that r3 is valid: {r3}");
 
     // Slicing it up!
-    s.push_str(" world"); // now hello world
+    s.push_str(" world");  // now hello world
     let slice_a = &s[..5]; // 0th index to 5th (exclusive)
     let slice_b = &s[6..]; // 6th index to the end
-    let slice_c = &s[..]; // now weve just copied the whole string
+    let slice_c = &s[..];  // now weve just copied the whole string
 
     println!("slice_a = {slice_a}, slice_b = {slice_b}, slice_c = {slice_c}");
 
